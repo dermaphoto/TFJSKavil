@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TFJSKavil/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/TFJSKavil/static/js/main.09212199.chunk.js",
+    "main.js.map": "/TFJSKavil/static/js/main.09212199.chunk.js.map",
+    "runtime-main.js": "/TFJSKavil/static/js/runtime-main.c65b2840.js",
+    "runtime-main.js.map": "/TFJSKavil/static/js/runtime-main.c65b2840.js.map",
+    "static/js/2.f2967070.chunk.js": "/TFJSKavil/static/js/2.f2967070.chunk.js",
+    "static/js/2.f2967070.chunk.js.map": "/TFJSKavil/static/js/2.f2967070.chunk.js.map",
+    "index.html": "/TFJSKavil/index.html",
+    "precache-manifest.fefdf853ac5d10811a32dfc34e0a52bd.js": "/TFJSKavil/precache-manifest.fefdf853ac5d10811a32dfc34e0a52bd.js",
+    "service-worker.js": "/TFJSKavil/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/TFJSKavil/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f2967070.chunk.js.LICENSE.txt": "/TFJSKavil/static/js/2.f2967070.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c65b2840.js",
+    "static/js/2.f2967070.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.09212199.chunk.js"
+  ]
+}
