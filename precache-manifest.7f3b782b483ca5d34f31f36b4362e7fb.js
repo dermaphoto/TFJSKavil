@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f51f6d8228ba8bdd0605bed947f5c9e",
+    "revision": "3e083d5319450da243d7001051a849c9",
     "url": "/TFJSKavil/index.html"
   },
   {
-    "revision": "6796ca7b91d51414ecdb",
-    "url": "/TFJSKavil/static/css/main.5ecd60fb.chunk.css"
+    "revision": "292f2dd546f17a515ce9",
+    "url": "/TFJSKavil/static/css/main.69eda509.chunk.css"
   },
   {
     "revision": "e06ed147b399e634378b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TFJSKavil/static/js/2.f2967070.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6796ca7b91d51414ecdb",
-    "url": "/TFJSKavil/static/js/main.09212199.chunk.js"
+    "revision": "292f2dd546f17a515ce9",
+    "url": "/TFJSKavil/static/js/main.504d828e.chunk.js"
   },
   {
     "revision": "57d6ca8c365ad2acb91a",
